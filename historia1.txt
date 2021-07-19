@@ -10,7 +10,6 @@ marcelo jugaba con otros niños
 
 y tenia un profe viejito que conocia a gente en la udec
 
-<<<<<<< HEAD
 aqui termino el primer merge:
 
 un dia iban a jugar contra los cadetes de la udec
@@ -18,6 +17,3 @@ un dia iban a jugar contra los cadetes de la udec
 pero estaba lloviendo
 
 fin
-=======
-aqui va el error
->>>>>>> cabecera
