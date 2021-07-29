@@ -3,7 +3,7 @@
 
 
 
-![aqui va la imagen](https://logodownload.org/wp-content/uploads/2014/04/bmw-logo-1.png)
+![aqui va la imagen](https://e7.pngegg.com/pngimages/683/780/png-clipart-emotional-intelligence-knowledge-artificial-intelligence-concept-technology-blue-electronics.png)
 
 
 **CONTENIDO**
