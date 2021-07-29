@@ -5,7 +5,6 @@
 
 ![aqui va la imagen](https://logodownload.org/wp-content/uploads/2014/04/bmw-logo-1.png)
 
-<img src="imagenes/bmw.png" width="100%" />
 
 **CONTENIDO**
 
